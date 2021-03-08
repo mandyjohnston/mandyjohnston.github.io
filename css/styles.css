@@ -84,7 +84,14 @@ figcaption {
 }
 
 .project-boxes {
-    margin-bottom: 70px;
+    margin-right: 10px;
+    margin-bottom: 50px;
+}
+
+.project-img {
+    width:200px;
+    height:200px;
+    border: 5px solid white;
 }
 
 .project-img:hover {
